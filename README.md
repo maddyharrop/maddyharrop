@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**maddyharrop/maddyharrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|        Languages        |            Extras              |
+|----------------|-------------------------------|
+|JavaScript|Git, GitBash, GitKraken           |
+|HTML         |Django            |
+|CSS          |MySQL|
+|Python          |Express.js & Handlebars.js|
+|          |React|
+|         |Node.js|
+|         |Docker|
+![Homepage for Video Game Review Site](https://lh3.googleusercontent.com/pw/ACtC-3dwjXJJ2hJK2g1iVh9Duh69ktifif1hHdZzqJXGRmKby3syX--4_OluIlO6QO9McmRmJXfCWLyyWnB9dzBlINZb1ZxX9Q21l2cRrm3oj5pAxMB2oZfeMlFvKt6sMjZETykObjhTw1JjDg02D7Zd1xJa=w1381-h694-no)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+> Written with [StackEdit](https://stackedit.io/).
+
