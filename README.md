@@ -15,9 +15,9 @@
 
 Contact me  |
 |:--------:| 
-| <i class="icon-twitter"></i> [Email](madeline.harrop@gmail.com) |
-| [Linkedin](https://www.linkedin.com/in/madeline-harrop/) | 
-| [Twitter](https://twitter.com/HarropMadeline) |
+| :email: [Email](madeline.harrop@gmail.com) |
+| :clipboard: [Linkedin](https://www.linkedin.com/in/madeline-harrop/) | 
+| :bird: [Twitter](https://twitter.com/HarropMadeline) |
 
 ## **Video Game Review Site For Uninformed Parents**
 ### A MERN (Mongo, Express, React, Node) Stack Project using MongoDB
