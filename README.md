@@ -21,6 +21,14 @@
 
 ## **Website that Documents Haunted Artifacts**
 ### Python, Poetry and Django Project
+<img align="left" src="https://lh3.googleusercontent.com/pw/ACtC-3eaxmE038EsBnLVGpSrOhdCNmH45Mhr9xYJ4ZU2zYdRsijRNFjTMzaYJyJ38ZeWmcx0UJSANyhTzJM1cIIRLNj7M2ekJm9skitl81IUrr60UdoIC8JMaHIctag4xSoyTWmGOgXvr_do_4_M90iyyV5S=w691-h347-no"></img>
+<img align="right" src="https://lh3.googleusercontent.com/pw/ACtC-3eaxmE038EsBnLVGpSrOhdCNmH45Mhr9xYJ4ZU2zYdRsijRNFjTMzaYJyJ38ZeWmcx0UJSANyhTzJM1cIIRLNj7M2ekJm9skitl81IUrr60UdoIC8JMaHIctag4xSoyTWmGOgXvr_do_4_M90iyyV5S=w691-h347-no"></img>
+<img align="left" src="https://lh3.googleusercontent.com/pw/ACtC-3eaxmE038EsBnLVGpSrOhdCNmH45Mhr9xYJ4ZU2zYdRsijRNFjTMzaYJyJ38ZeWmcx0UJSANyhTzJM1cIIRLNj7M2ekJm9skitl81IUrr60UdoIC8JMaHIctag4xSoyTWmGOgXvr_do_4_M90iyyV5S=w691-h347-no"></img>
+<img align="right" src="https://lh3.googleusercontent.com/pw/ACtC-3eaxmE038EsBnLVGpSrOhdCNmH45Mhr9xYJ4ZU2zYdRsijRNFjTMzaYJyJ38ZeWmcx0UJSANyhTzJM1cIIRLNj7M2ekJm9skitl81IUrr60UdoIC8JMaHIctag4xSoyTWmGOgXvr_do_4_M90iyyV5S=w691-h347-no"></img>
+<img align="left" src="https://lh3.googleusercontent.com/pw/ACtC-3eaxmE038EsBnLVGpSrOhdCNmH45Mhr9xYJ4ZU2zYdRsijRNFjTMzaYJyJ38ZeWmcx0UJSANyhTzJM1cIIRLNj7M2ekJm9skitl81IUrr60UdoIC8JMaHIctag4xSoyTWmGOgXvr_do_4_M90iyyV5S=w691-h347-no"></img>
+<img align="right" src="https://lh3.googleusercontent.com/pw/ACtC-3eaxmE038EsBnLVGpSrOhdCNmH45Mhr9xYJ4ZU2zYdRsijRNFjTMzaYJyJ38ZeWmcx0UJSANyhTzJM1cIIRLNj7M2ekJm9skitl81IUrr60UdoIC8JMaHIctag4xSoyTWmGOgXvr_do_4_M90iyyV5S=w691-h347-no"></img>
+<img align="left" src="https://lh3.googleusercontent.com/pw/ACtC-3eaxmE038EsBnLVGpSrOhdCNmH45Mhr9xYJ4ZU2zYdRsijRNFjTMzaYJyJ38ZeWmcx0UJSANyhTzJM1cIIRLNj7M2ekJm9skitl81IUrr60UdoIC8JMaHIctag4xSoyTWmGOgXvr_do_4_M90iyyV5S=w691-h347-no"></img>
+<img align="right" src="https://lh3.googleusercontent.com/pw/ACtC-3eaxmE038EsBnLVGpSrOhdCNmH45Mhr9xYJ4ZU2zYdRsijRNFjTMzaYJyJ38ZeWmcx0UJSANyhTzJM1cIIRLNj7M2ekJm9skitl81IUrr60UdoIC8JMaHIctag4xSoyTWmGOgXvr_do_4_M90iyyV5S=w691-h347-no"></img>
 ![enter image description here](https://lh3.googleusercontent.com/pw/ACtC-3eUs_s_lZIleX3xsPzq1hsafZIHSCcEPCS7gf8M6KYnph0LEIs37Fjv64k_Oix58ZhawhCqAhOIikxlt8quZziBmbp8ITDw0ytEVHlo_5CkReOOEipX1Fn-9WOCVKFDVfaWXzZLvGA_eIlJjI2YbdUr=w691-h337-no)
 ![enter image description here](https://lh3.googleusercontent.com/pw/ACtC-3d-G3Kp-nIb5RigB-LqOca43PnrPQWO6hF_fVlPwT-IdM16PDMvX7yv5Fxmo8YKeysvJRqMVAbkQpXunXKM9CqYy4bdKph8JNM-C8taJ5X8b27Enkyi-9sW5xrywGNxx62C8815EuFGXsZNdofF494g=w689-h336-no)
 ![enter image description here](https://lh3.googleusercontent.com/pw/ACtC-3fcw3kiOMErwzdvQwch9c5lzC2vFpjA0p-J7Xu3MP_aKWbmYwTOA7GkPoooWjAFvv5CiJrotuzXe_pLwS5l8oOS9DN3f1vUAywtFmaHLcUCg3z1dRVFis-hwhI1KeQHrAUs1W59MaIkbsLfcseM8qQi=w691-h337-no)
