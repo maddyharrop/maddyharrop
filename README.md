@@ -19,9 +19,9 @@
 <img align="left" src="https://lh3.googleusercontent.com/pw/ACtC-3eaxmE038EsBnLVGpSrOhdCNmH45Mhr9xYJ4ZU2zYdRsijRNFjTMzaYJyJ38ZeWmcx0UJSANyhTzJM1cIIRLNj7M2ekJm9skitl81IUrr60UdoIC8JMaHIctag4xSoyTWmGOgXvr_do_4_M90iyyV5S=w691-h347-no"></img>
 <img align="right" src="https://lh3.googleusercontent.com/pw/ACtC-3fGQImPCW0-T0vsglC12Fw8heXdAVg52nDnyhwqGe9KixXFAaotzFfHR6zoIB81cID1VAdLesuGA4-x2difCcvR816oJwPL-iK-OCq3iRJDs0VsK75YZPoIzTmS0_rePaJ1TmOnPc1ULEDUO8NIiyIi=w691-h346-no"></img>
 
-## **Website that Documents Haunted Artifacts**
-### Python, Poetry and Django Project
-<img align="left" src="https://lh3.googleusercontent.com/pw/ACtC-3eaxmE038EsBnLVGpSrOhdCNmH45Mhr9xYJ4ZU2zYdRsijRNFjTMzaYJyJ38ZeWmcx0UJSANyhTzJM1cIIRLNj7M2ekJm9skitl81IUrr60UdoIC8JMaHIctag4xSoyTWmGOgXvr_do_4_M90iyyV5S=w691-h347-no"></img>
+
+<img align="left" src="https://lh3.googleusercontent.com/pw/ACtC-3eaxmE038EsBnLVGpSrOhdCNmH45Mhr9xYJ4ZU2zYdRsijRNFjTMzaYJyJ38ZeWmcx0UJSANyhTzJM1cIIRLNj7M2ekJm9skitl81IUrr60UdoIC8JMaHIctag4xSoyTWmGOgXvr_do_4_M90iyyV5S=w691-h347-no"> ## **Website that Documents Haunted Artifacts**
+### Python, Poetry and Django Project </img>
 <img align="right" src="https://lh3.googleusercontent.com/pw/ACtC-3eaxmE038EsBnLVGpSrOhdCNmH45Mhr9xYJ4ZU2zYdRsijRNFjTMzaYJyJ38ZeWmcx0UJSANyhTzJM1cIIRLNj7M2ekJm9skitl81IUrr60UdoIC8JMaHIctag4xSoyTWmGOgXvr_do_4_M90iyyV5S=w691-h347-no"></img>
 <img align="left" src="https://lh3.googleusercontent.com/pw/ACtC-3eaxmE038EsBnLVGpSrOhdCNmH45Mhr9xYJ4ZU2zYdRsijRNFjTMzaYJyJ38ZeWmcx0UJSANyhTzJM1cIIRLNj7M2ekJm9skitl81IUrr60UdoIC8JMaHIctag4xSoyTWmGOgXvr_do_4_M90iyyV5S=w691-h347-no"></img>
 <img align="right" src="https://lh3.googleusercontent.com/pw/ACtC-3eaxmE038EsBnLVGpSrOhdCNmH45Mhr9xYJ4ZU2zYdRsijRNFjTMzaYJyJ38ZeWmcx0UJSANyhTzJM1cIIRLNj7M2ekJm9skitl81IUrr60UdoIC8JMaHIctag4xSoyTWmGOgXvr_do_4_M90iyyV5S=w691-h347-no"></img>
