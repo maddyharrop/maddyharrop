@@ -14,6 +14,8 @@
 
 ## **Video Game Review Site For Uninformed Parents**
 ### A MERN (Mongo, Express, React, Node) Stack Project using MongoDB
+<img class="pull-left" src="https://lh3.googleusercontent.com/pw/ACtC-3fca4KiLM1wMnyB_ziQIQ6_Yv6DsGHn5KgTfuzhfKazW6hLakLfD8iJ5kRuIxgE3wt36P431laKcTI-k9Zb7TesqKon-8kt_zDXk8jjLZtj7nKpti3k7TCb1KY7kWwiPT4-ZnZjPV3KGUpPp4LXXefw=w691-h347-no" style="float:right"></img>
+
 ![enter image description here](https://lh3.googleusercontent.com/pw/ACtC-3fca4KiLM1wMnyB_ziQIQ6_Yv6DsGHn5KgTfuzhfKazW6hLakLfD8iJ5kRuIxgE3wt36P431laKcTI-k9Zb7TesqKon-8kt_zDXk8jjLZtj7nKpti3k7TCb1KY7kWwiPT4-ZnZjPV3KGUpPp4LXXefw=w691-h347-no)![enter image description here](https://lh3.googleusercontent.com/pw/ACtC-3d-IgEaeBtYBUN7jEs-7wMeVYuPBWzaSenheJKkec2clMUPKkYkfC9N-ozRN0iRl-CBVIb2xExmV3XDkcdcUVla6LbR6LOqKZuUb4BWxbZqX-Jw_xMc8hiGdb-gOa2q_0TRAfRQOl08D5dkmFlp99g6=w689-h344-no)
 ![enter image description here](https://lh3.googleusercontent.com/pw/ACtC-3eaxmE038EsBnLVGpSrOhdCNmH45Mhr9xYJ4ZU2zYdRsijRNFjTMzaYJyJ38ZeWmcx0UJSANyhTzJM1cIIRLNj7M2ekJm9skitl81IUrr60UdoIC8JMaHIctag4xSoyTWmGOgXvr_do_4_M90iyyV5S=w691-h347-no)
 ![enter image description here](https://lh3.googleusercontent.com/pw/ACtC-3fGQImPCW0-T0vsglC12Fw8heXdAVg52nDnyhwqGe9KixXFAaotzFfHR6zoIB81cID1VAdLesuGA4-x2difCcvR816oJwPL-iK-OCq3iRJDs0VsK75YZPoIzTmS0_rePaJ1TmOnPc1ULEDUO8NIiyIi=w691-h346-no)
