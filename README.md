@@ -15,7 +15,7 @@
 
 Contact me  |
 |:--------:| 
-| [Email](madeline.harrop@gmail.com) |
+| <i class="icon-twitter"></i> [Email](madeline.harrop@gmail.com) |
 | [Linkedin](https://www.linkedin.com/in/madeline-harrop/) | 
 | [Twitter](https://twitter.com/HarropMadeline) |
 
