@@ -2,15 +2,15 @@
 # Hi there :wave:
 ## I am an Aspiring Software Developer :computer: and Food Business Entrepreneurship graduate with a growing interest in Information Technology and digital transformation. I recently completed a 12-week master course in Coding covering: HTML, CSS, JavaScript, Node, React, Python, Django, testing, Git and functional programming. I also have a Level 2 in IT which included learning python, CSS and HTML and was able to apply these languages towards creating websites and text-based games. :floppy_disk:
 
-|        Languages        |            Extras              |            Extras              |
-|:----------------:|:-------------------------------:||:-------------------------------:|
-|JavaScript|Git, GitBash & GitKraken|Poetry|
-|HTML|Django|React|
-|CSS|MySQL|Node.js|
-|Python|Express.js & Handlebars.js|Docker|
-|         |MongoDB|Heroku|
-|         |SQL&MySQL|DBeaver|
-|         |VisualStudio|
+|        Languages        |            Extras              |    Extras    |
+|:----------------:|:-------------------------------:|:-------------------------------:|
+|JavaScript   |    Git, GitBash & GitKraken    |   Poetry    |
+|HTML   |    Django|   React   |
+|CSS    |   MySQL   |   Node.js   |
+|Python   |   Express.js & Handlebars.js    |   Docker    |
+|         |   MongoDB   |   Heroku    |
+|         |   SQL&MySQL   |   DBeaver   |
+|         |   VisualStudio    |
 
 Contact me  |
 |:--------:| 
