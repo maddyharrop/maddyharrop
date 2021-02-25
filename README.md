@@ -4,18 +4,12 @@
 
 |        Languages        |            Extras              |
 |:----------------:|:-------------------------------:|
-|JavaScript|Git, GitBash & GitKraken           |
-|HTML         |Django            |
-|CSS          |MySQL|
-|Python          |Express.js & Handlebars.js|
-|          |React|
-|         |Node.js|
-|         |Docker|
-|         |Poetry|
-|         |MongoDB|
-|         |Heroku|
-|         |SQL&MySQL|
-|         |DBeaver|
+|JavaScript|Git, GitBash & GitKraken|Poetry|
+|HTML|Django|React|
+|CSS|MySQL|Node.js|
+|Python|Express.js & Handlebars.js|Docker|
+|         |MongoDB|Heroku|
+|         |SQL&MySQL|DBeaver|
 |         |VisualStudio|
 
 Contact me  |
