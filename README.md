@@ -11,7 +11,12 @@
 |          |React|
 |         |Node.js|
 |         |Docker|
-
+|         |Poetry|
+|         |MongoDB|
+|         |Heroku|
+|         |SQL&MySQL|
+|         |DBeaver|
+|         |VisualStudio|
 
 Contact me  |
 |:--------:| 
