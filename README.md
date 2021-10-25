@@ -8,8 +8,8 @@
 |HTML   |    Django|   React   |
 |CSS    |   MySQL   |   Node.js   |
 |Python   |   Express.js & Handlebars.js    |   Docker    |
-|         |   MongoDB   |   Heroku    |
-|         |   SQL&MySQL   |   DBeaver   |
+|C#       |   MongoDB   |   Heroku    |
+|Java         |   SQL&MySQL   |   DBeaver   |
 |         |   VisualStudio    |
 
 Contact me  |
