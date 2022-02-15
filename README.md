@@ -3,28 +3,28 @@
 # Hi there :wave:
 ## Software Developer :computer: and Instructor with a growing interest in Information Technology and digital transformation. :floppy_disk:
 
-| Languages |  |
-|--|--|
+| Languages |  
+|--|
 | JavaScript, Python, C#, C, Java, PowerShell, Bash, Json, HTML, CSS, | 
 
-| Database Platforms||
-|--|--|
+| Database Platforms|
+|--|
 | SQL, MySQL, NoSQL, MongoDB, Neo4J	| 
 
-| Frameworks |  |
-|--|--|
+| Frameworks |
+|--|
 | Node.js, Express.js, Handlebars.js, ReactJS, .Net, Lightning.js, Django, Jest, Cucumber, Gherkin, Selenium, JUnit, NUnit, XUnit | 
 
-| DevOps Tools|  |
-|--|--|
+| DevOps Tools|
+|--|
 |Git, GitHub, Jira, Confluence, Trello, Docker, Azure DevOps, VisualStudio & Eclipse, Postman, Insomnia | 
 
-| Cloud Platforms|  |
-|--|--|
+| Cloud Platforms|
+|--|
 | Amazon Web Services, Microsoft Azure, Heroku | 
 
-| Project Management|  |
-|--|--|
+| Project Management|
+|--|
 | Scrum, Agile, waterfall | 
 
 Contact me  |
