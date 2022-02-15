@@ -3,6 +3,13 @@
 # Hi there :wave:
 ## Software Developer :computer: and Instructor with a growing interest in Information Technology and digital transformation. :floppy_disk:
 
+Contact me  |
+|:--------:| 
+| :email: Email: madeline.harrop@gmail.com |
+| :postbox: [Linkedin](https://www.linkedin.com/in/madeline-harrop/) | 
+| :bird: [Twitter](https://twitter.com/HarropMadeline) |
+
+
 | Languages |  
 |--|
 | JavaScript, Python, C#, C, Java, PowerShell, Bash, Json, HTML, CSS, | 
@@ -27,11 +34,6 @@
 |--|
 | Scrum, Agile, waterfall | 
 
-Contact me  |
-|:--------:| 
-| :email: Email: madeline.harrop@gmail.com |
-| :postbox: [Linkedin](https://www.linkedin.com/in/madeline-harrop/) | 
-| :bird: [Twitter](https://twitter.com/HarropMadeline) |
 
 ## **Video Game Review Site For Uninformed Parents**
 ### A MERN (Mongo, Express, React, Node) Stack Project using MongoDB
